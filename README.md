@@ -19,4 +19,4 @@ Conclusions obtained from analysis using the pipeline, or address a gap/recommen
 
 # Team
 1. Karega Pauline - Team Lead
-2. 
+2. Sebastian Musundi
