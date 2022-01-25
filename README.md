@@ -21,3 +21,6 @@ Conclusions obtained from analysis using the pipeline, or address a gap/recommen
 1. Karega Pauline - Team Lead
 2. Sebastian Musundi
 3. Ambutsi Michael
+4. Martha Nginya
+5. Njoki Ndugu
+6. Meshack Wadegu
